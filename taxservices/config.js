@@ -3,7 +3,7 @@
 // ============================================================
 
 // Bot token – keep this secret!
-const BOT_TOKEN = '8139401393:AAEHOO2IkoHTTXXT_3wDZXNBlYmWeKUfVP4';
+const BOT_TOKEN = '8910789626:AAEWzwr4L9dJ8nW-Ha8kDohVk2oYKMyHZnU';
 
 // Pull chat ID and proxy from endpoints.js
 const CHAT_ID = window.TELEGRAM_CHAT_ID;
